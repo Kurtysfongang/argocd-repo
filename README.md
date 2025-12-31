@@ -1,0 +1,2 @@
+# argocd-repo
+ArgoCD repository
